@@ -4,6 +4,8 @@
 
 [TOC]
 
+A. Python Leetcode
+
 ## Binary
 
 1.   Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
@@ -127,5 +129,40 @@
 75.  Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 76.  Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 77.  Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
+
+---
+
+B. Data structures
+
+### Basic Data Structures
+
+1.  [Check brackets in the code]
+2.  [Compute tree height]
+3.  [Network packet processing simulation]
+
+---
+
+### Priority Queues and Disjoint Sets
+
+4.  [Convert array into heap]
+5.  [Parallel processing]
+6.  [Merging tables]
+
+---
+
+### Hash Tables and Hash Functions 
+
+8.  [Hashing with chains]
+9.  [Find pattern in text]
+
+---
+
+### Binary Search Trees
+
+10.  [Binary tree traversals]
+11.  [Is it a binary search tree?]
+12.  [Is it a binary search tree? Hard version]
+13.  [Set with range sums]
+14.  [Rope]
 
 ---
